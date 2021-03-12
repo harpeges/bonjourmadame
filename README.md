@@ -1,6 +1,6 @@
 # bonjourmadame
 Pour les Madamistes,
-les scrips permettent de télécharger l'intégralité des photos du calendrier BonjourMadame.
+les scrips permettent de télécharger l'intégralité des photos du calendrier BonjourMadame : https://www.bonjourmadame.fr/.
 
 Il est recommandé de créer un dossier seulement pour ce code, car beaucoup de photos vont être téléchargées :yum: .
 

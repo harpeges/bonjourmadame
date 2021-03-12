@@ -6,5 +6,5 @@ les scripts permettent de télécharger l'intégralité des photos du calendrier
 
 Il est recommandé de créer un dossier seulement pour ce code, car beaucoup de photos vont être téléchargées :yum: .
 
-* Le notebook python peut être lancé directement avec la commande run all.
-* Le script python peut être lancé directement en ligne de commande avec python BM.py
+* *Le notebook python* peut être lancé directement avec la commande *run all*.
+* *Le script python* peut être lancé directement en ligne de commande avec *python BM.py*

@@ -59,8 +59,8 @@ def main():
     for date in dates:
         url = url_date(date)
         imgs = get_all_images(url)
-        img = the_image(imgs)
-        download(img, date)
+        the_img = the_image(imgs)
+        download(the_img, date)
     
 if __name__ == "__main__":
     main()
